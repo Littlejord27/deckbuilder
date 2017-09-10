@@ -1,0 +1,113 @@
+{
+	"cardName": "Bizarro",
+	"cost": 7,
+	"type": "Villain",
+	"VP": 0,
+	"base": 3,
+	"text": "At the end of the game, this card is worth 2 VPs for each weakness in your deck",
+	"attributes": ["Endgame"]
+},
+{
+	"cardName": "Solomon Grundy",
+	"cost": 6,
+	"type": "Villain",
+	"VP": 2,
+	"base": 3,
+	"text": "When you buys or gain this Villain, you may put him on top of your deck.",
+	"attributes": ["None"]
+},
+{
+	"cardName": "Solomon Grundy",
+	"cost": 6,
+	"type": "Villain",
+	"VP": 2,
+	"base": 3,
+	"text": "When you buys or gain this Villain, you may put him on top of your deck.",
+	"attributes": ["None"]
+},
+{
+	"cardName": "Poison Ivy",
+	"cost": 3,
+	"type": "Villain",
+	"VP": 1,
+	"base": 1,
+	"text": "+1 Power. Attack: Each foe discards the top card of his deck. If it cost is 1 or greater, that player gains a Weakness.",
+	"attributes": ["Attack Each Cost1 Weakness"]
+},
+{
+	"cardName": "Poison Ivy",
+	"cost": 3,
+	"type": "Villain",
+	"VP": 1,
+	"base": 1,
+	"text": "+1 Power. Attack: Each foe discards the top card of his deck. If it cost is 1 or greater, that player gains a Weakness.",
+	"attributes": ["Attack Each Cost1 Weakness"]
+},
+{
+	"cardName": "Doomsday",
+	"cost": 6,
+	"type": "Villain",
+	"VP": 2,
+	"base": 4,
+	"text": "+4 Power.",
+	"attributes": ["None"]
+},
+{
+	"cardName": "Doomsday",
+	"cost": 6,
+	"type": "Villain",
+	"VP": 2,
+	"base": 4,
+	"text": "+4 Power.",
+	"attributes": ["None"]
+},
+{
+	"cardName": "Cheetah",
+	"cost": 2,
+	"type": "Villain",
+	"VP": 1,
+	"base": 0,
+	"text": "+4 Power.",
+	"attributes": ["GainLine Amount1 Cost4"]
+}
+,
+{
+	"cardName": "Cheetah",
+	"cost": 6,
+	"type": "Villain",
+	"VP": 2,
+	"base": 4,
+	"text": "+4 Power.",
+	"attributes": ["GainLine Amount1 Cost4"]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

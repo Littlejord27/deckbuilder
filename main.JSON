@@ -1,0 +1,419 @@
+ {
+ 	"cards": [{
+ 		"Name": "X-Ray Vision",
+ 		"Cost": 3,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "Each for reveals the top card of his deck. You may play one of the non-Location cards revaled this way this turn, then return it to the top of its owner's deck.",
+ 		"Attr": ["Special"]
+ 	}, {
+ 		"Name": "X-Ray Vision",
+ 		"Cost": 3,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "Each for reveals the top card of his deck. You may play one of the non-Location cards revaled this way this turn, then return it to the top of its owner's deck.",
+ 		"Attr": ["Special"]
+ 	}, {
+ 		"Name": "X-Ray Vision",
+ 		"Cost": 3,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "Each for reveals the top card of his deck. You may play one of the non-Location cards revaled this way this turn, then return it to the top of its owner's deck.",
+ 		"Attr": ["Special"]
+ 	}, {
+ 		"Name": "Super Strength",
+ 		"Cost": 7,
+ 		"CardType": "Super Power",
+ 		"VP": 2,
+ 		"BasePower": 5,
+ 		"Text": "+5 Power",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Super Strength",
+ 		"Cost": 7,
+ 		"CardType": "Super Power",
+ 		"VP": 2,
+ 		"BasePower": 5,
+ 		"Text": "+5 Power",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Super Strength",
+ 		"Cost": 7,
+ 		"CardType": "Super Power",
+ 		"VP": 2,
+ 		"BasePower": 5,
+ 		"Text": "+5 Power",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Super Speed",
+ 		"Cost": 3,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "Draw a card. Defense: You may discard this card to avoid an Attack. If you do, draw two cards.",
+ 		"Attr": ["Draw 1", "Defense Discard-Card Draw2"]
+ 	}, {
+ 		"Name": "Super Speed",
+ 		"Cost": 3,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "Draw a card. Defense: You may discard this card to avoid an Attack. If you do, draw two cards.",
+ 		"Attr": ["Draw 1", "Defense Discard-Card Draw2"]
+ 	}, {
+ 		"Name": "Super Speed",
+ 		"Cost": 3,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "Draw a card. Defense: You may discard this card to avoid an Attack. If you do, draw two cards.",
+ 		"Attr": ["Draw 1", "Defense Discard-Card Draw2"]
+ 	}, {
+ 		"Name": "Super Speed",
+ 		"Cost": 3,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "Draw a card. Defense: You may discard this card to avoid an Attack. If you do, draw two cards.",
+ 		"Attr": ["Draw 1", "Defense Discard-Card Draw2"]
+ 	}, {
+ 		"Name": "Bulletproof",
+ 		"Cost": 4,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Defense: You may discard this card to avoid an Attack. If you do, draw a card and you may destroy a card in your discard pile",
+ 		"Attr": ["Defense Discard-Card Draw1 May-Destroy-Discard"]
+ 	}, {
+ 		"Name": "Bulletproof",
+ 		"Cost": 4,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Defense: You may discard this card to avoid an Attack. If you do, draw a card and you may destroy a card in your discard pile",
+ 		"Attr": ["Defense Discard-Card Draw1 May-Destroy-Discard"]
+ 	}, {
+ 		"Name": "Bulletproof",
+ 		"Cost": 4,
+ 		"CardType": "Super Power",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Defense: You may discard this card to avoid an Attack. If you do, draw a card and you may destroy a card in your discard pile",
+ 		"Attr": ["Defense Discard-Card Draw1 May-Destroy-Discard"]
+ 	}, {
+ 		"Name": "Heat Vision",
+ 		"Cost": 6,
+ 		"CardType": "Super Power",
+ 		"VP": 2,
+ 		"BasePower": 3,
+ 		"Text": "+3 Power. You may destroy a card in your hand or discard pile.",
+ 		"Attr": ["May-Destroy-Both"]
+ 	}, {
+ 		"Name": "Heat Vision",
+ 		"Cost": 6,
+ 		"CardType": "Super Power",
+ 		"VP": 2,
+ 		"BasePower": 3,
+ 		"Text": "+3 Power. You may destroy a card in your hand or discard pile.",
+ 		"Attr": ["May-Destroy-Both"]
+ 	}, {
+ 		"Name": "Heat Vision",
+ 		"Cost": 6,
+ 		"CardType": "Super Power",
+ 		"VP": 2,
+ 		"BasePower": 3,
+ 		"Text": "+3 Power. You may destroy a card in your hand or discard pile.",
+ 		"Attr": ["May-Destroy-Both"]
+ 	}, {
+ 		"Name": "Green Arrow's Bow",
+ 		"Cost": 4,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Super-Vilains cost you 2 less to defea this turn.",
+ 		"Attr": ["SVilain -2"]
+ 	}, {
+ 		"Name": "Green Arrow's Bow",
+ 		"Cost": 4,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Super-Vilains cost you 2 less to defea this turn.",
+ 		"Attr": ["SVilain -2"]
+ 	}, {
+ 		"Name": "Green Arrow's Bow",
+ 		"Cost": 4,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Super-Vilains cost you 2 less to defea this turn.",
+ 		"Attr": ["SVilain -2"]
+ 	}, {
+ 		"Name": "Lasso of Truth",
+ 		"Cost": 2,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Defense: You may discard this card to avoid an Attack. If you do, draw a card.",
+ 		"Attr": ["Defense Discard-Card Draw1"]
+ 	}, {
+ 		"Name": "Lasso of Truth",
+ 		"Cost": 2,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Defense: You may discard this card to avoid an Attack. If you do, draw a card.",
+ 		"Attr": ["Defense Discard-Card Draw1"]
+ 	}, {
+ 		"Name": "Lasso of Truth",
+ 		"Cost": 2,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Defense: You may discard this card to avoid an Attack. If you do, draw a card.",
+ 		"Attr": ["Defense Discard-Card Draw1"]
+ 	}, {
+ 		"Name": "The Bat-Signal",
+ 		"Cost": 5,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Put a Hero from your discard pile into your hand.",
+ 		"Attr": ["Rez Hero -1 Hand"]
+ 	}, {
+ 		"Name": "The Bat-Signal",
+ 		"Cost": 5,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Put a Hero from your discard pile into your hand.",
+ 		"Attr": ["Rez Hero -1 Hand"]
+ 	}, {
+ 		"Name": "The Bat-Signal",
+ 		"Cost": 5,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Put a Hero from your discard pile into your hand.",
+ 		"Attr": ["Rez Hero -1 Hand"]
+ 	}, {
+ 		"Name": "Batmobile",
+ 		"Cost": 2,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "If this is the first card you play this turn, discard your hand and draw five cards. Otherwise, +1 Power.",
+ 		"Attr": ["Special"]
+ 	}, {
+ 		"Name": "Batmobile",
+ 		"Cost": 2,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "If this is the first card you play this turn, discard your hand and draw five cards. Otherwise, +1 Power.",
+ 		"Attr": ["Special"]
+ 	}, {
+ 		"Name": "Batmobile",
+ 		"Cost": 2,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "If this is the first card you play this turn, discard your hand and draw five cards. Otherwise, +1 Power.",
+ 		"Attr": ["Special"]
+ 	}, {
+ 		"Name": "Aquaman's Trident",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. You may put any one card you buy or gain this turn on top of your deck.",
+ 		"Attr": ["Save1"]
+ 	}, {
+ 		"Name": "Aquaman's Trident",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. You may put any one card you buy or gain this turn on top of your deck.",
+ 		"Attr": ["Save1"]
+ 	}, {
+ 		"Name": "Aquaman's Trident",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. You may put any one card you buy or gain this turn on top of your deck.",
+ 		"Attr": ["Save1"]
+ 	}, {
+ 		"Name": "Nth Metal",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Look at the top card of your deck. You may destroy it.",
+ 		"Attr": ["Scry1 May-Destroy"]
+ 	}, {
+ 		"Name": "Nth Metal",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Look at the top card of your deck. You may destroy it.",
+ 		"Attr": ["Scry1 May-Destroy"]
+ 	}, {
+ 		"Name": "Nth Metal",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Look at the top card of your deck. You may destroy it.",
+ 		"Attr": ["Scry1 May-Destroy"]
+ 	}, {
+ 		"Name": "The Cape and the Cowl",
+ 		"Cost": 4,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Defense: You may discard this card to avoid an Attack. If you do, draw two cards.",
+ 		"Attr": ["Defense Discard-Card Draw2"]
+ 	}, {
+ 		"Name": "The Cape and the Cowl",
+ 		"Cost": 4,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Defense: You may discard this card to avoid an Attack. If you do, draw two cards.",
+ 		"Attr": ["Defense Discard-Card Draw2"]
+ 	}, {
+ 		"Name": "The Cape and the Cowl",
+ 		"Cost": 4,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. Defense: You may discard this card to avoid an Attack. If you do, draw two cards.",
+ 		"Attr": ["Defense Discard-Card Draw2"]
+ 	}, {
+ 		"Name": "Utility Belt",
+ 		"Cost": 5,
+ 		"CardType": "Equipment",
+ 		"VP": 0,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. At the end of the game, if you have four or more other Equipment in your deck, this card is woth 5 VPs.",
+ 		"Attr": ["EndGame"]
+ 	}, {
+ 		"Name": "Utility Belt",
+ 		"Cost": 5,
+ 		"CardType": "Equipment",
+ 		"VP": 0,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. At the end of the game, if you have four or more other Equipment in your deck, this card is woth 5 VPs.",
+ 		"Attr": ["EndGame"]
+ 	}, {
+ 		"Name": "Utility Belt",
+ 		"Cost": 5,
+ 		"CardType": "Equipment",
+ 		"VP": 0,
+ 		"BasePower": 2,
+ 		"Text": "+2 Power. At the end of the game, if you have four or more other Equipment in your deck, this card is woth 5 VPs.",
+ 		"Attr": ["EndGame"]
+ 	}, {
+ 		"Name": "Power Ring",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "Reveal the top card of your deck. If its cost is 1 or greater, +3 Power. Otherwise, +2 Power.",
+ 		"Attr": ["Scry1 Cost1 Power1"]
+ 	}, {
+ 		"Name": "Power Ring",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "Reveal the top card of your deck. If its cost is 1 or greater, +3 Power. Otherwise, +2 Power.",
+ 		"Attr": ["Scry1 Power1"]
+ 	}, {
+ 		"Name": "Power Ring",
+ 		"Cost": 3,
+ 		"CardType": "Equipment",
+ 		"VP": 1,
+ 		"BasePower": 2,
+ 		"Text": "Reveal the top card of your deck. If its cost is 1 or greater, +3 Power. Otherwise, +2 Power.",
+ 		"Attr": ["Scry1 Power1"]
+ 	}, {
+ 		"Name": "Bizarro",
+ 		"Cost": 7,
+ 		"CardType": "Villain",
+ 		"VP": 0,
+ 		"BasePower": 3,
+ 		"Text": "At the end of the game, this card is worth 2 VPs for each weakness in your deck",
+ 		"Attr": ["Endgame"]
+ 	}, {
+ 		"Name": "Solomon Grundy",
+ 		"Cost": 6,
+ 		"CardType": "Villain",
+ 		"VP": 2,
+ 		"BasePower": 3,
+ 		"Text": "When you buys or gain this Villain, you may put him on top of your deck.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Solomon Grundy",
+ 		"Cost": 6,
+ 		"CardType": "Villain",
+ 		"VP": 2,
+ 		"BasePower": 3,
+ 		"Text": "When you buys or gain this Villain, you may put him on top of your deck.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Poison Ivy",
+ 		"Cost": 3,
+ 		"CardType": "Villain",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Attack: Each foe discards the top card of his deck. If it cost is 1 or greater, that player gains a Weakness.",
+ 		"Attr": ["Attack Each Cost1 Weakness"]
+ 	}, {
+ 		"Name": "Poison Ivy",
+ 		"Cost": 3,
+ 		"CardType": "Villain",
+ 		"VP": 1,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power. Attack: Each foe discards the top card of his deck. If it cost is 1 or greater, that player gains a Weakness.",
+ 		"Attr": ["Attack Each Cost1 Weakness"]
+ 	}, {
+ 		"Name": "Doomsday",
+ 		"Cost": 6,
+ 		"CardType": "Villain",
+ 		"VP": 2,
+ 		"BasePower": 4,
+ 		"Text": "+4 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Doomsday",
+ 		"Cost": 6,
+ 		"CardType": "Villain",
+ 		"VP": 2,
+ 		"BasePower": 4,
+ 		"Text": "+4 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Cheetah",
+ 		"Cost": 2,
+ 		"CardType": "Villain",
+ 		"VP": 1,
+ 		"BasePower": 0,
+ 		"Text": "+4 Power.",
+ 		"Attr": ["GainLine Amount1 Cost4"]
+ 	}, {
+ 		"Name": "Cheetah",
+ 		"Cost": 6,
+ 		"CardType": "Villain",
+ 		"VP": 2,
+ 		"BasePower": 4,
+ 		"Text": "+4 Power.",
+ 		"Attr": ["GainLine Amount1 Cost4"]
+ 	}]
+ }

@@ -1,0 +1,14 @@
+{"villain":[
+	{"cardName":"Ra's Al Ghul", "cost":"8", "type": "Villain", "VP":"4", "text":"+3 Power. At the end of your turn, put this card on the bottom of its owner's deck before drawin a new hand."},
+	{"cardName":"Captain Cold", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"Parallax", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"Lex Luthor", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"Deathstroke", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"Darkseid", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"The Joker", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"Brainiac", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"Atrocitus", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"Black Manta", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"The Anti-Monitor", "cost":"", "type": "Villain", "VP":"", "text":""},
+	{"cardName":"Sinestro", "cost":"", "type": "Villain", "VP":"", "text":""}
+]}

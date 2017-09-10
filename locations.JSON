@@ -1,0 +1,7 @@
+{
+	"Name": "Titans Tower",
+	"Cost": 5,
+	"CardType": "Location",
+	"VP": 1,
+	"Text": "When you play this card, leave it in front of you for the rest of the game. Ongoing: When you play your first card with cost 2 or 3 on each of your turns, draw a card."
+}

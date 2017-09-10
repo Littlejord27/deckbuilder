@@ -1,0 +1,24 @@
+{
+	"hero": [{
+		"Name": "Green Lantern",
+		"text": "If you play three or more cards with different names and cost 1 more during your turn, +3 Power"
+	}, {
+		"Name": "Cyborg",
+		"text": "If you play one or more Super Powers during your turn, +1 power. If you play one or more Equipment during your turn, draw a card."
+	}, {
+		"Name": "Superman",
+		"text": "+1 Power for each different Super Power you play during your turn"
+	}, {
+		"Name": "The Flash",
+		"text": "You go first. The first time a card tells you to draw one or more cards during each of your turns, draw an additional card."
+	}, {
+		"Name": "Aquaman",
+		"text": "You may put any cards with cost 5 or less you buy or gain during your turn on top of your deck."
+	}, {
+		"Name": "Wonderwoman",
+		"text": "For each Vilain you buy or gain during your turn, draw an extra card at the end of your turn."
+	}, {
+		"Name": "Batman",
+		"text": "+1 Power for each quipment you play during your turn."
+	}]
+}

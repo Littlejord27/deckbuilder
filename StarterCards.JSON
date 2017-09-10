@@ -1,0 +1,83 @@
+ {
+ 	"cards": [{
+ 		"Name": "Punch",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Punch",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Punch",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Punch",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Punch",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Punch",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Punch",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 1,
+ 		"Text": "+1 Power.",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Vulnerability",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 0,
+ 		"Text": " ",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Vulnerability",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 0,
+ 		"Text": " ",
+ 		"Attr": ["None"]
+ 	}, {
+ 		"Name": "Vulnerability",
+ 		"Cost": 0,
+ 		"CardType": "Starter",
+ 		"VP": 0,
+ 		"BasePower": 0,
+ 		"Text": " ",
+ 		"Attr": ["None"]
+ 	}]
+ }
